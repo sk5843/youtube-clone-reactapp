@@ -1,4 +1,4 @@
-#Youtube-clone React app using Youtube data API (RESTful)
+## Youtube-clone React app using Youtube data API (RESTful)
 
 A youtube clone created using React and semantic-ui with basic design. Concentrates more on the functionality
 to demonstrate my React skills and interacting with RESTful API's. The app makes use of Javascript promises and
